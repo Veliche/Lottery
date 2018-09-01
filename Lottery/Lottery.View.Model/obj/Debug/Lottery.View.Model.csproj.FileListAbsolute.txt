@@ -1,0 +1,6 @@
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.View.Model\bin\Debug\Lottery.View.Model.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.View.Model\bin\Debug\Lottery.View.Model.pdb
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.csprojResolveAssemblyReference.cache
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.pdb

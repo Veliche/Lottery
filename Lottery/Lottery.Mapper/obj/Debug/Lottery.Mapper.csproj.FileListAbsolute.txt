@@ -1,0 +1,10 @@
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.Mapper.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.Mapper.pdb
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.pdb
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.Data.Model.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.View.Model.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.Data.Model.pdb
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.View.Model.pdb
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.csprojResolveAssemblyReference.cache
