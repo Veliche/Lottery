@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lottery.Data
 {
-    interface IRepository<T> where T : IEntity
+    public interface IRepository<T> where T : IEntity
     {
         void Insert(T entity);
         void Delete(T entity);

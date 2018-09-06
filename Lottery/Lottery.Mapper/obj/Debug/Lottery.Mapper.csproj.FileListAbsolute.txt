@@ -8,3 +8,6 @@ C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.Data.Model.pdb
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.View.Model.pdb
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.csprojResolveAssemblyReference.cache
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\EntityFramework.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\Lottery.Data.Model.dll.config
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Mapper\bin\Debug\EntityFramework.xml

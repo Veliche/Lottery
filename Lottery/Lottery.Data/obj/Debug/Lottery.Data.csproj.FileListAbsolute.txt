@@ -6,3 +6,9 @@ C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\obj\Debug\Lottery.Da
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\obj\Debug\Lottery.Data.csproj.CoreCompileInputs.cache
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\obj\Debug\Lottery.Data.dll
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\obj\Debug\Lottery.Data.pdb
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.dll.config
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\EntityFramework.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.Model.dll.config
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\EntityFramework.xml
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\EntityFramework.SqlServer.xml

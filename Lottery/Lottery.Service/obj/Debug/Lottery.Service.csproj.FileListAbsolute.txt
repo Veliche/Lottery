@@ -12,3 +12,12 @@ C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Lottery
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.pdb
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Lottery.Mapper.pdb
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Lottery.View.Model.pdb
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\EntityFramework.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.Model.dll.config
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.dll.config
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\EntityFramework.xml
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Lottery.Service.dll.config
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Autofac.dll
+C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Autofac.xml
