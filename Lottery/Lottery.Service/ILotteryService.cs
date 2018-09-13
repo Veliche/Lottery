@@ -10,5 +10,6 @@ namespace Lottery.Service
     public interface ILotteryService
     {
         AwardModel CheckCode(UserCodeModel userCode);
+        IList<UserCodeAwardModel> GetAllWinners();
     }
 }

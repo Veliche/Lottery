@@ -75,12 +75,15 @@ namespace Lottery.Service
             }
         }
 
+       
+
         private Award GetRandomAward(RuffledType type)
         {
             var awards = _awardRepository.GetAll().Where(x => x.RuffledType == (byte)type).ToList();
             var awardedAwards = _userCodeAwardRepository.GetAll().Where(x => x.Award.RuffledType == (byte)type).Select(x => x.Award).GroupBy(x => x.Id).ToList();
 
             var availableAwards = new List<Award>();
+
             foreach (var award in awards)
             {
                 var numberOfAwardedAwards = awardedAwards.FirstOrDefault(x => x.Key == award.Id)?.Count() ?? 0;
@@ -99,5 +102,14 @@ namespace Lottery.Service
             var randomAwardIndex = rnd.Next(0, availableAwards.Count);
             return availableAwards[randomAwardIndex];
          }
+
+        public IList<UserCodeAwardModel> GetAllWinners()
+        {
+            using (new UnitOfWork(_dbContext))
+            {
+                var winners = _userCodeAwardRepository.GetAll().Include(w => w.UserCode.Code).Include(w => w.Award).ToList();
+                return winners.Select(x => x.Map<UserCodeAward, UserCodeAwardModel>()).ToList();
+            }
+        }
     }
 }

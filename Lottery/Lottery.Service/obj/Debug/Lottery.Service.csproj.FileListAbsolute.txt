@@ -21,3 +21,26 @@ C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\EntityF
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Autofac.dll
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Service\bin\Debug\Autofac.xml
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Service.dll.config
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Service.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Service.pdb
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Autofac.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\EntityFramework.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.Model.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Mapper.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.View.Model.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.Model.pdb
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.Model.dll.config
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.pdb
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Data.dll.config
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.Mapper.pdb
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Lottery.View.Model.pdb
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\Autofac.xml
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\EntityFramework.xml
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\obj\Debug\Lottery.Service.csprojResolveAssemblyReference.cache
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\obj\Debug\Lottery.Service.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\obj\Debug\Lottery.Service.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Service\obj\Debug\Lottery.Service.pdb

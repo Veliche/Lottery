@@ -60,5 +60,10 @@ namespace Lottery.Service
             //    AwardDescription = award.AwardDescription
             //};
         }
+
+        public IList<UserCodeAwardModel> GetAllWinners()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

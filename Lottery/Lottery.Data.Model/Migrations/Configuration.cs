@@ -21,22 +21,22 @@ namespace Lottery.Data.Model.Migrations
                 new Code
                 {
                     CodeValue = "CC8899",
-                    IsUsed = true
+                    IsWinning = true
                 },
                 new Code
                 {
                     CodeValue = "CC7799",
-                    IsUsed = true
+                    IsWinning = true
                 },
                 new Code
                 {
                     CodeValue = "CC6699",
-                    IsUsed = true
+                    IsWinning = true
                 },
                 new Code
                 {
                     CodeValue = "CC5599",
-                    IsUsed = true
+                    IsWinning = true
                 }
             };
 

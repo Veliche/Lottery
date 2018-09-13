@@ -12,3 +12,17 @@ C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\EntityFram
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.Model.dll.config
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\EntityFramework.xml
 C:\Users\Code\Desktop\Expert C# Topics\Lottery\Lottery.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.dll.config
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.pdb
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\EntityFramework.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.Model.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.Model.pdb
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\Lottery.Data.Model.dll.config
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\EntityFramework.xml
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\obj\Debug\Lottery.Data.csprojResolveAssemblyReference.cache
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\obj\Debug\Lottery.Data.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\obj\Debug\Lottery.Data.dll
+C:\Users\Code\Desktop\Expert CsharpTopics\Lottery\Lottery.Data\obj\Debug\Lottery.Data.pdb
