@@ -1,17 +1,20 @@
 import { Injectable } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
-import { IUserCodeAward } from "./winners-list.model";
 import { Observable } from "rxjs";
+import { IUserCode, IAward } from "../winners-list/winners-list.model"; 
 
 @Injectable({
     providedIn: 'root'
 })
-export class WinnersListService {
+
+export class SubmitCodeService {
     lotteryUrl: string = "http://localhost:53327/api/lottery/"
     constructor(private http: HttpClient){
 
     }
-    getAllwinners(): Observable<Array<IUserCodeAward>> {
-        return this.http.get<Array<IUserCodeAward>>(this.lotteryUrl + "GetAllWinners");
+
+    submitCode(userCode: IUserCode) : Observable<IAward> {
+        return this.http.post<IAward>(this.lotteryUrl + 'submitCode', userCode);
     }
+    
 }
